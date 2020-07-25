@@ -330,3 +330,18 @@ order: 0;
 align-self: center;
 margin: 10px 0px;
 }
+img{
+    height: 20px;
+    width: 20px;
+    margin-right: 5px;
+}
+.footer2{
+    position: absolute;
+    width: 534px;
+    height: 49px;
+    left: 412px;
+    top: 880px;
+    
+    background: #222436;
+    border-radius: 47px;
+}
